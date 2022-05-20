@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android tugas/AndroidKotlin/ViewData/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/android tugas/AndroidKotlin/ViewData/app/src/main/res/layout/activity_detail_buah.xml" value="0.1" />
         <entry key="..\:/android tugas/AndroidKotlin/ViewData/app/src/main/res/layout/activity_list_view.xml" value="0.1" />
         <entry key="..\:/android tugas/AndroidKotlin/ViewData/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android tugas/AndroidKotlin/ViewData/app/src/main/res/layout/activity_recyler.xml" value="0.1" />
+        <entry key="..\:/android tugas/AndroidKotlin/ViewData/app/src/main/res/layout/list_item.xml" value="0.1" />
       </map>
     </option>
   </component>
